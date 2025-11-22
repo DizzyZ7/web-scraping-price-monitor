@@ -1,0 +1,24 @@
+# Виртуальное окружение
+venv/
+.env/
+.venv/
+env/
+
+# Компилированный питон
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.so
+
+# IDE
+.vscode/
+.idea/
+*.iml
+
+# Системное
+.DS_Store
+
+# Данные и отчёты
+data/
+reports/
